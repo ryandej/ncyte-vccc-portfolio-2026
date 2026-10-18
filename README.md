@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-This repository documents my work from the 2026 NCyTE Virtual Cybersecurity Career Challenge. The challenge involved building, validating, securing, and documenting an enterprise-style network environment using segmented infrastructure, multiple operating systems, security controls, and service components.
+This portfolio documents my work in the 2026 NCyTE Virtual Cybersecurity Career Challenge (VCCC), a hands-on enterprise network security program.
 
-The environment included a WAN segment, DMZ/screened subnet, firewall core, transit network, internal LAN, Windows and Linux systems, Active Directory/DNS services, web and database infrastructure, monitoring components, and secure administrative access paths.
+My contributions included validating network segmentation and firewall rules, troubleshooting routing and NAT, hardening SSH access, assessing Windows and Linux security baselines, and documenting findings and remediation. The project also included red-team assessment review and testing AI-assisted security workflows.
+
+Status: The VCCC training is complete. This repository is being expanded with network diagrams, redacted technical evidence, validation notes, and supporting documentation.
 
 ## My Role
 
